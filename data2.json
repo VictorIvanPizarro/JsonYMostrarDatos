@@ -1,0 +1,65 @@
+{
+  "Persona1":{
+       "Nombre": "Pepe", 
+       "Apellidos": "Garcia", 
+       "Telefono": 9997776666, 
+       "Altura": 179,
+       "Puesto": "Jefe",
+   }
+  "Persona1":{
+       "Nombre": "Jose", 
+       "Apellidos": "Sanchez", 
+       "Telefono": 9997776666, 
+       "Altura": 203,
+       "Puesto": "Empleado",
+   }
+  "Persona1":{
+       "Nombre": "Rosa", 
+       "Apellidos": "Benito", 
+       "Telefono": 9997776666, 
+       "Altura": 165,
+       "Puesto": "Jefe",
+   }
+  "Persona1":{
+       "Nombre": "Tom", 
+       "Apellidos": "Garcia", 
+       "Telefono": 9997776666, 
+       "Altura": 210,
+       "Puesto": "Empleado",
+   }
+  "Persona1":{
+       "Nombre": "Jorge", 
+       "Apellidos": "Mateos", 
+       "Telefono": 9997776666, 
+       "Altura": 168,
+       "Puesto": "Jefe",
+   }
+  "Persona1":{
+       "Nombre": "Ivan", 
+       "Apellidos": "Vaquero", 
+       "Telefono": 9997776666, 
+       "Altura": 188,
+       "Puesto": "Empleado",
+   }
+  "Persona1":{
+       "Nombre": "Victor", 
+       "Apellidos": "Gonzalez", 
+       "Telefono": 9997776666, 
+       "Altura": 190,
+       "Puesto": "Empleado",
+   }
+  "Persona1":{
+       "Nombre": "Sara", 
+       "Apellidos": "Lucas", 
+       "Telefono": 9997776666, 
+       "Altura": 155,
+       "Puesto": "Empleado",
+   }
+  "Persona1":{
+       "Nombre": "Martin", 
+       "Apellidos": "Ramos", 
+       "Telefono": 9997776666, 
+       "Altura": 181,
+       "Puesto": "Empleado",
+   }
+}
